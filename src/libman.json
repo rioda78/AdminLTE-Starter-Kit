@@ -3,11 +3,11 @@
   "defaultProvider": "cdnjs",
   "libraries": [
     {
-      "library": "admin-lte@2.4.10",
+      "library": "admin-lte@2.4.18",
       "destination": "wwwroot/libs/admin-lte/"
     },
     {
-      "library": "twitter-bootstrap@3.4.1",
+      "library": "twitter-bootstrap@3.4.0",
       "destination": "wwwroot/libs/bootstrap/"
     },
     {
